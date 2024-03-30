@@ -1,0 +1,80 @@
+body {
+    background-color: #212832; 
+}
+.banner2 h1 {
+    color: white;
+    padding-right: 160px;
+}
+.yellow-text {
+    color: #FED36A;
+}
+.img1 {
+    padding-right: 230px;
+}
+.img2 {
+        background-color: white;
+}
+.banner2 button{
+    padding-right: 200px;
+    border-radius: 0;
+
+}
+.welcome0{
+    color: white;
+    /* padding-right: 80px; */
+}
+.welcome1{
+    color: white;
+    padding-right: 80px;
+}
+.welcome2{
+    color: white;
+    /* padding-left: 0px; */
+}
+
+
+.email{
+    color: #8CAAB9;
+    padding-right: 300px;
+}
+.password{
+    color: #8CAAB9;
+    padding-right: 260px;
+}
+.form-control{
+    background-color: #455A64;
+    max-width: 300px;
+    border:#455A64;
+}
+.iconi{
+    background-color:#455A64 ;
+    border:#455A64;
+}
+.form-control::placeholder {
+    color: white;
+}
+.form-label{
+    color: white;
+}
+.section1 .form-control{
+    /* padding-left: 200px; */
+    width: 400px;
+    border-radius: 0;
+}
+.backto{
+    padding-right: 50px;
+}
+.card {
+    background-color: #455A64;
+}
+
+
+@media screen and (max-width:330px) {
+    .email{
+        padding-right: 250px;
+    }
+    .password{
+        padding-right: 210px;
+    }
+
+}
